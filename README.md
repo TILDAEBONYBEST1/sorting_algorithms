@@ -1,5 +1,5 @@
  # sorting_algorithms
-Sorting algorithm Project for ALX School by Hanetu Matilda Ibiba and Akhetuamhen odion
+Sorting algorithm Project for ALX School by Hanetu Matilda Ibiba and Akhetuamhen Osemudiamen odion
 0x1A. C - Sorting algorithms & Big O
 About
 An introductory project on:
